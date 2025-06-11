@@ -1,6 +1,8 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/52010998-7373-4122-a195-44511c70a8c2/deploy-status)](https://app.netlify.com/projects/lutz-schule/deploys)
 
-# School blog with some knowledge I've gathered over the years
+# School Blog
+
+> 📚 Collection of school-knowledge I've gathered over the years
 
 **Tutorial how to set it up: [Setting up your own digital garden with Jekyll](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll)**
 
