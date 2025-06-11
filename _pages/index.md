@@ -13,7 +13,7 @@ permalink: /
 </p>
 -->
 
-<strong>Alle Notizen nach Ordnern</strong>
+<!-- <strong>Alle Notizen nach Ordnern</strong> -->
 
 {% assign notes_by_folder = site.notes | group_by_exp: "note", "note.path | split: '/' | slice: 1, 1" %}
 <ul>
