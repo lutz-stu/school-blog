@@ -5,15 +5,32 @@ id: home
 permalink: /
 ---
 
-# Welcome! 🌱
+# Hallo! 🌱
 
+<!--
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
   Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
 </p>
+-->
 
-This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
+<strong>Alle Notizen nach Ordnern</strong>
 
-The easiest way to get started is to read this [step-by-step guide explaining how to set this up from scratch](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll).
+{% assign notes_by_folder = site.notes | group_by_exp: "note", "note.path | split: '/' | slice: 1, 1" %}
+<ul>
+  {% for folder in notes_by_folder %}
+    <li>
+      <strong>{{ folder.name | default: "Root" }}</strong>
+      <ul>
+        {% for note in folder.items %}
+          <li>
+            <a class="internal-link" href="{{ site.baseurl }}{{ note.url }}">{{ note.title }}</a>
+          </li>
+        {% endfor %}
+      </ul>
+    </li>
+  {% endfor %}
+</ul>
+
 
 <strong>Recently updated notes</strong>
 
