@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Home
+title: Startseite
 id: home
 permalink: /
 ---
