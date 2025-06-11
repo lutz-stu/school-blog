@@ -4,6 +4,6 @@ title: About
 permalink: /about
 ---
 
-*This is an about page.*
+Diese Seite wurde ursprünglich im Rahmen eines Schulprojekts im Informatikunterricht gestartet.
 
-Feel free to tell the world about what you love! 😍
+Schau dir den Code auf [GitHub](https://github.com/lutz-stu/school-blog) an.
