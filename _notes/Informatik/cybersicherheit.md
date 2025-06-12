@@ -108,7 +108,7 @@ HTTPS: hKJH8+7B9bbjbgih?hui!h99hjkHsafdsffK
 - blockiere nur Blacklist
 - alles erlauben
 
-#### Datenschutzgrundverordnung (DSGVO)
+## Datenschutzgrundverordnung (DSGVO)
 - Deutschland und EU
 - Einwilligung bevor Daten gesammelt werden können
 - Transparenz: angeben welche Daten gesammelt werden, wie sie verwendet werden und mit wem sie geteilt werden
