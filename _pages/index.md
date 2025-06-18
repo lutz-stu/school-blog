@@ -12,9 +12,21 @@ permalink: /
   Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
 </p>
 -->
+<style>
+  .columns {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .column {
+    flex: 1 0 25%; /* Grow, shrink, basis 25% (4 per row) */
+    box-sizing: border-box;
+    padding: 10px;
+    min-width: 200px; /* Optional: controls min column width */
+}
+</style>
 
 <!-- Fächerübersicht -->
-<div class="columns is-multiline">
+<div class="columns">
   <div class="column">Latein</div>
   <div class="column">Deutsch</div>
   <div class="column">Mathe</div>
