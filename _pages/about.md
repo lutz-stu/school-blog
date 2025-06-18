@@ -12,7 +12,7 @@ Schau dir den Code auf [GitHub](https://github.com/lutz-stu/school-blog) an.
     display: inline-block !important;
     margin: 0 !important;
     text-align: left !important;
-    float: none !important;"
-    text-decoration: none; >
+    float: none !important;
+    text-decoration: none;">
   <img src="https://api.netlify.com/api/v1/badges/52010998-7373-4122-a195-44511c70a8c2/deploy-status" alt="Netlify Status" />
 </a>
