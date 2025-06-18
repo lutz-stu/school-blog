@@ -2,11 +2,28 @@
 layout: default
 ---
 
+<!-- Translate month names to German -->
+{% assign month_en = page.last_modified_at | date: "%B" %}
+{% case month_en %}
+  {% when "January" %}{% assign month_de = "Januar" %}
+  {% when "February" %}{% assign month_de = "Februar" %}
+  {% when "March" %}{% assign month_de = "März" %}
+  {% when "April" %}{% assign month_de = "April" %}
+  {% when "May" %}{% assign month_de = "Mai" %}
+  {% when "June" %}{% assign month_de = "Juni" %}
+  {% when "July" %}{% assign month_de = "Juli" %}
+  {% when "August" %}{% assign month_de = "August" %}
+  {% when "September" %}{% assign month_de = "September" %}
+  {% when "October" %}{% assign month_de = "Oktober" %}
+  {% when "November" %}{% assign month_de = "November" %}
+  {% when "December" %}{% assign month_de = "Dezember" %}
+{% endcase %}
+
 <article>
   <div>
     <h1>{{ page.title }}</h1>
     <time datetime="{{ page.last_modified_at | date_to_xmlschema }}">{% if page.type != 'pages' %}
-      Last updated on {{ page.last_modified_at | date: "%B %-d, %Y" }}
+      Zuletzt aktualiesiert am {{ page.last_modified_at | date: "%-d" }}. {{ month_de }} {{ page.last_modified_at | date: "%Y" }}
       {% endif %}
     </time>
   </div>
