@@ -13,6 +13,16 @@ permalink: /
 </p>
 -->
 
+<!-- Fächerübersicht -->
+<div class="columns is-multiline">
+  <div class="column">Latein</div>
+  <div class="column">Deutsch</div>
+  <div class="column">Mathe</div>
+  <div class="column">Englisch</div>
+</div>
+<!-- https://www.flaticon.com/de/kostenlose-icons/schulfacher -->
+
+
 <!-- <strong>Alle Notizen nach Ordnern</strong> -->
 
 {% assign notes_by_folder = site.notes | group_by_exp: "note", "note.path | split: '/' | slice: 1, 1" %}
