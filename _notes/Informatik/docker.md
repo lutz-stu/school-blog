@@ -1,5 +1,5 @@
 ---
-title: Docker <img src="https://www.svgrepo.com/download/331370/docker.svg" style="vertical-align: middle; height: 1em;">
+title: Docker
 ---
 
 ## Was ist ein Docker-Container?
