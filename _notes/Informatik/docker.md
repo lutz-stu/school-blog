@@ -2,6 +2,9 @@
 title: Docker
 ---
 
+![Docker Logo](https://www.svgrepo.com/download/331370/docker.svg){: style="vertical-align: middle; height: 5em;" }
+
+
 ## Was ist ein Docker-Container?
 
 - isolierter, virtueller Container
