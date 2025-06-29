@@ -6,6 +6,8 @@ permalink: /about
 
 Diese Seite wurde ursprünglich im Rahmen eines Schulprojekts im Informatikunterricht gestartet.
 
+Kontakt: <lutz-stu@posteo.de>
+
 Schau dir den Code auf [GitHub](https://github.com/lutz-stu/school-blog) an.
 
 <a href="https://app.netlify.com/projects/lutz-schule/deploys" style="
