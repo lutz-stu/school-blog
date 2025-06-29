@@ -11,7 +11,7 @@ title: Gedichtsanalyse
 -   Entstehungszeit
 -   Thema (_Liebe im 18. Jh.._)
 
-### 2. Inhaltsangabe
+### 2. [[Inhaltsangabe]]
 
 -   kurz
 -   pro Strophe, ein Satz
