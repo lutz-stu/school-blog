@@ -51,35 +51,35 @@ permalink: /
 
 <div class="subject-grid">
   <a class="subject-card internal-link" href="{{ site.baseurl }}/Latein">
-    <img src="https://cdn-icons-png.flaticon.com/512/2721/2721271.png" alt="Latein Icon"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/9085/9085836.png" alt="Latein Icon"/>
     <div class="subject-title">Latein</div>
   </a>
   <a class="subject-card internal-link" href="{{ site.baseurl }}/Deutsch">
-    <img src="https://cdn-icons-png.flaticon.com/512/2721/2721266.png" alt="Deutsch Icon"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/8276/8276821.png" alt="Deutsch Icon"/>
     <div class="subject-title">Deutsch</div>
   </a>
   <a class="subject-card internal-link" href="{{ site.baseurl }}/Mathe">
-    <img src="https://cdn-icons-png.flaticon.com/512/2721/2721275.png" alt="Mathe Icon"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/2084/2084541.png" alt="Mathe Icon"/>
     <div class="subject-title">Mathe</div>
   </a>
   <a class="subject-card internal-link" href="{{ site.baseurl }}/Englisch">
-    <img src="https://cdn-icons-png.flaticon.com/512/2721/2721273.png" alt="Englisch Icon"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/330/330425.png" alt="Englisch Icon"/>
     <div class="subject-title">Englisch</div>
   </a>
   <a class="subject-card internal-link" href="{{ site.baseurl }}/Informatik">
-    <img src="https://cdn-icons-png.flaticon.com/512/2721/2721277.png" alt="Informatik Icon"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/8824/8824175.png" alt="Informatik Icon"/>
     <div class="subject-title">Informatik</div>
   </a>
   <a class="subject-card internal-link" href="{{ site.baseurl }}/Chemie">
-    <img src="https://cdn-icons-png.flaticon.com/512/2721/2721281.png" alt="Chemie Icon"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/8276/8276792.png" alt="Chemie Icon"/>
     <div class="subject-title">Chemie</div>
   </a>
   <a class="subject-card internal-link" href="{{ site.baseurl }}/Physik">
-    <img src="https://cdn-icons-png.flaticon.com/512/2721/2721267.png" alt="Physik Icon"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/887/887862.png" alt="Physik Icon"/>
     <div class="subject-title">Physik</div>
   </a>
   <a class="subject-card internal-link" href="{{ site.baseurl }}/Geschichte">
-    <img src="https://cdn-icons-png.flaticon.com/512/2721/2721274.png" alt="Geschichte Icon"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/124/124784.png" alt="Geschichte Icon"/>
     <div class="subject-title">Geschichte</div>
   </a>
 </div>
