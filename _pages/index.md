@@ -7,32 +7,82 @@ permalink: /
 
 # Hallo! 🌱
 
-<!--
-<p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
-</p>
--->
 <style>
-  .columns {
-    display: flex;
-    flex-wrap: wrap;
-  }
-  .column {
-    flex: 1 0 25%; /* Grow, shrink, basis 25% (4 per row) */
-    box-sizing: border-box;
-    padding: 10px;
-    min-width: 200px; /* Optional: controls min column width */
+.subject-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2em;
+  row-gap: 2em; /* Gleicher Abstand zwischen Zeilen wie Spalten */
+  justify-content: flex-start;
+  margin-bottom: 2em;
+  margin-top: 2em; /* Standard margin unter h1 */
+}
+.subject-card {
+  background: #f5f7ff;
+  border-radius: 24px;
+  box-shadow: 0 4px 24px #0001;
+  width: 160px;
+  height: 180px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 0; /* Kein zusätzlicher Abstand, gap übernimmt das */
+  transition: transform 0.15s;
+  text-align: center;
+  text-decoration: none;
+  color: inherit;
+}
+.subject-card:hover {
+  transform: translateY(-4px) scale(1.04);
+  box-shadow: 0 8px 32px #0002;
+}
+.subject-card img {
+  width: 56px;
+  height: 56px;
+  margin-bottom: 1em;
+}
+.subject-title {
+  font-weight: bold;
+  font-size: 1.1em;
+  margin-bottom: 0.3em;
 }
 </style>
 
-<!-- Fächerübersicht -->
-<div class="columns">
-  <div class="column">Latein</div>
-  <div class="column">Deutsch</div>
-  <div class="column">Mathe</div>
-  <div class="column">Englisch</div>
+<div class="subject-grid">
+  <a class="subject-card internal-link" href="{{ site.baseurl }}/latein">
+    <img src="https://cdn-icons-png.flaticon.com/512/2721/2721271.png" alt="Latein Icon"/>
+    <div class="subject-title">Latein</div>
+  </a>
+  <a class="subject-card internal-link" href="{{ site.baseurl }}/deutsch">
+    <img src="https://cdn-icons-png.flaticon.com/512/2721/2721266.png" alt="Deutsch Icon"/>
+    <div class="subject-title">Deutsch</div>
+  </a>
+  <a class="subject-card internal-link" href="{{ site.baseurl }}/mathe">
+    <img src="https://cdn-icons-png.flaticon.com/512/2721/2721275.png" alt="Mathe Icon"/>
+    <div class="subject-title">Mathe</div>
+  </a>
+  <a class="subject-card internal-link" href="{{ site.baseurl }}/englisch">
+    <img src="https://cdn-icons-png.flaticon.com/512/2721/2721273.png" alt="Englisch Icon"/>
+    <div class="subject-title">Englisch</div>
+  </a>
+  <a class="subject-card internal-link" href="{{ site.baseurl }}/informatik">
+    <img src="https://cdn-icons-png.flaticon.com/512/2721/2721277.png" alt="Informatik Icon"/>
+    <div class="subject-title">Informatik</div>
+  </a>
+  <a class="subject-card internal-link" href="{{ site.baseurl }}/chemie">
+    <img src="https://cdn-icons-png.flaticon.com/512/2721/2721281.png" alt="Chemie Icon"/>
+    <div class="subject-title">Chemie</div>
+  </a>
+  <a class="subject-card internal-link" href="{{ site.baseurl }}/physik">
+    <img src="https://cdn-icons-png.flaticon.com/512/2721/2721267.png" alt="Physik Icon"/>
+    <div class="subject-title">Physik</div>
+  </a>
+  <a class="subject-card internal-link" href="{{ site.baseurl }}/geschichte">
+    <img src="https://cdn-icons-png.flaticon.com/512/2721/2721274.png" alt="Geschichte Icon"/>
+    <div class="subject-title">Geschichte</div>
+  </a>
 </div>
-<!-- https://www.flaticon.com/de/kostenlose-icons/schulfacher -->
 
 
 <!-- <strong>Alle Notizen nach Ordnern</strong> -->
