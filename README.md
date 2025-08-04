@@ -13,3 +13,7 @@
 - Includes graph visualization of the notes and their links
 - Features a simple and responsive design
 - Supports Markdown or HTML notes
+
+
+## TODO
+- Politik: Legislative, etc.
