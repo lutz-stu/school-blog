@@ -70,9 +70,9 @@ permalink: /
     <img src="https://cdn-icons-png.flaticon.com/512/8824/8824175.png" alt="Informatik Icon"/>
     <div class="subject-title">Informatik</div>
   </a>
-  <a class="subject-card internal-link" href="{{ site.baseurl }}/Chemie">
-    <img src="https://cdn-icons-png.flaticon.com/512/8276/8276792.png" alt="Chemie Icon"/>
-    <div class="subject-title">Chemie</div>
+  <a class="subject-card internal-link" href="{{ site.baseurl }}/Politik">
+    <img src="https://cdn-icons-png.flaticon.com/512/1651/1651652.png" alt="Politik Icon"/>
+    <div class="subject-title">Politik</div>
   </a>
   <a class="subject-card internal-link" href="{{ site.baseurl }}/Physik">
     <img src="https://cdn-icons-png.flaticon.com/512/887/887862.png" alt="Physik Icon"/>

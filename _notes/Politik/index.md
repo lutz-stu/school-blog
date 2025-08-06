@@ -1,15 +1,15 @@
 ---
 layout: page
-title: Chemie
-permalink: /Chemie
+title: Politik
+permalink: /Politik
 ---
 
-# Chemie
+# Politik
 
 <strong>Zuletzt aktualisierte Notizen</strong>
 <ul>
   {% assign recent_notes = site.notes 
-    | where_exp: "note", "note.path contains '/Chemie/'"
+    | where_exp: "note", "note.path contains '/Politik/'"
     | sort: "last_modified_at_timestamp" 
     | reverse %}
   {% for note in recent_notes %}
