@@ -6,6 +6,12 @@ permalink: /Politik
 
 # Politik
 
+## Die drei Gewalten des Staats
+
+- 📜 [[legislative.md]] – Die gesetzgebende Gewalt  
+- 🛡️ [[exekutive.md]] – Die ausführende Gewalt  
+- ⚖️ [[judikative.md]] – Die rechtsprechende Gewalt
+
 <strong>Zuletzt aktualisierte Notizen</strong>
 <ul>
   {% assign recent_notes = site.notes 

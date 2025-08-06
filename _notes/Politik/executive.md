@@ -1,0 +1,9 @@
+---
+🛡️ Exekutive – Die ausführende Gewalt
+---
+
+Die **Exekutive** führt die von der [[Legislative]] festgelegten Gesetze **aus**. 👮‍♂️🏢
+
+Dazu gehören zum Beispiel die **Bundesregierung**, die **Landesregierungen**, die **Polizei** und **Behörden**. Sie sorgen dafür, dass die beschlossenen Gesetze auch wirklich im Alltag umgesetzt werden.
+
+⚙️ Sie arbeitet auf Grundlage der Gesetze – nicht einfach, wie sie will. Wird ihr Handeln angezweifelt, prüft die [[Judikative]], ob alles rechtmäßig war.
