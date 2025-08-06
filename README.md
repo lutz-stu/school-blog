@@ -17,3 +17,4 @@
 
 ## TODO
 - Politik: Legislative, etc.
+- Credits an Flaticon
