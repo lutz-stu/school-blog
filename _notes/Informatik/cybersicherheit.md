@@ -2,6 +2,8 @@
 title: Cybersicherheit & Datenschutz
 ---
 
+> Zusammenfassung der dazugehörigen Unterrichtsreihe
+
 ## Gefahren im Internet
 
 ### Viren
