@@ -16,4 +16,4 @@
 
 
 ## TODO
-- Credits an Flaticon
+- [ ] Individuelle Fächer Seiten
