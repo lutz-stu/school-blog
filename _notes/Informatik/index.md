@@ -6,7 +6,7 @@ permalink: /Informatik
 
 # Informatik
 
-## Softwareentwicklung 💻
+## Softwareentwicklung 🚀
 
 
 ## Systemtechnologien 🖥️
