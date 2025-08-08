@@ -23,9 +23,7 @@ Schau dir den Code auf [GitHub](https://github.com/lutz-stu/school-blog) an.
 
 ## Credits
 
-<p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-    Für die Fächerauswahl auf der Startseite wurden einige Icons von [Flaticon](https://www.flaticon.com/) verwendet.
-</p>
+**Für die Fächerauswahl auf der Startseite wurden einige Icons von [Flaticon](https://www.flaticon.com/) verwendet.**
 
 <a href="https://www.flaticon.com/free-icons/latin" title="latin icons">Latin icons created by Freepik - Flaticon</a>
 
