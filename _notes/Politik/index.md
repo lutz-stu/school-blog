@@ -8,9 +8,9 @@ permalink: /Politik
 
 ## Die drei Gewalten des Staats
 
-- 📜 [[legislative.md]] – Die gesetzgebende Gewalt  
-- 🛡️ [[exekutive.md]] – Die ausführende Gewalt  
-- ⚖️ [[judikative.md]] – Die rechtsprechende Gewalt
+- 📜 [[Legislative]] – Die gesetzgebende Gewalt  
+- 🛡️ [[Exekutive]] – Die ausführende Gewalt  
+- ⚖️ [[Judikative]] – Die rechtsprechende Gewalt
 
 <strong>Zuletzt aktualisierte Notizen</strong>
 <ul>
