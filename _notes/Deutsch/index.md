@@ -7,7 +7,7 @@ permalink: /Deutsch
 # Deutsch
 
 ## Textanalyse & Interpretation 📝
-- 📜 [[Gedichtsanalyse]] – Analyse von Aufbau, Sprache und Wirkung eines Gedichts
+- 📜 [[Gedichtanalyse]] – Analyse von Aufbau, Sprache und Wirkung eines Gedichts
 
 ---
 
