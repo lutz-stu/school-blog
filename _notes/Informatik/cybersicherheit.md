@@ -2,8 +2,6 @@
 title: Cybersicherheit & Datenschutz
 ---
 
-> Zusammenfassung der dazugehörigen Unterrichtsreihe
-
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
     <b>Zusammenfassung der dazugehörigen Unterrichtsreihe</b>
 </p>
