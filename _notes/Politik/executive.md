@@ -1,6 +1,10 @@
 ---
-🛡️ Exekutive – Die ausführende Gewalt
+Exekutive
 ---
+
+<p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
+    # 🛡️ Die ausführende Gewalt
+</p>
 
 Die **Exekutive** führt die von der [[Legislative]] festgelegten Gesetze **aus**. 👮‍♂️🏢
 

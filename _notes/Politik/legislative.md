@@ -1,6 +1,10 @@
 ---
-📜 Legislative – Die gesetzgebende Gewalt
+Legislative
 ---
+
+<p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
+    # 📜 Die gesetzgebende Gewalt
+</p>
 
 Die **Legislative** ist die Gewalt, die Gesetze **macht**. 🏛️
 
