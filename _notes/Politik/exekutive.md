@@ -3,7 +3,7 @@ title: Exekutive
 ---
 
 <div style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-    <h2>🛡️ Die ausführende Gewalt</h2>
+    <h2 style="margin: 0;">🛡️ Die ausführende Gewalt</h2>
 </div>
 
 Die **Exekutive** führt die von der [[Legislative]] festgelegten Gesetze **aus**. 👮‍♂️🏢

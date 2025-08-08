@@ -3,7 +3,7 @@ title: Judikative
 ---
 
 <div style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-    <h2>⚖️ Die rechtsprechende Gewalt</h2>
+    <h2 style="margin: 0;">⚖️ Die rechtsprechende Gewalt</h2>
 </div>
 
 Die **Judikative** sorgt für **Gerechtigkeit**. 👩‍⚖️👨‍⚖️
