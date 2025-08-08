@@ -6,6 +6,15 @@ permalink: /Physik
 
 # Physik
 
+## Mechanik ⚙️
+
+## Elektrizität & Magnetismus ⚡
+
+## Optik & Wellen 🌊
+
+## Moderne Physik 🪐
+
+<!--
 <strong>Zuletzt aktualisierte Notizen</strong>
 <ul>
   {% assign recent_notes = site.notes 
@@ -19,3 +28,4 @@ permalink: /Physik
     </li>
   {% endfor %}
 </ul>
+-->
