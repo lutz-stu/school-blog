@@ -6,7 +6,7 @@ permalink: /Politik
 
 # Politik
 
-## Die drei Gewalten des Staats
+## Die drei Gewalten des Staats 🏛️
 
 - 📜 [[Legislative]] – Die gesetzgebende Gewalt  
 - 🛡️ [[Exekutive]] – Die ausführende Gewalt  
