@@ -6,6 +6,16 @@ permalink: /Informatik
 
 # Informatik
 
+## Softwareentwicklung 💻
+
+
+## Systemtechnologien 🖥️
+- 📦 [[Docker]] – Plattform zur Containerisierung und Bereitstellung von Anwendungen
+
+## Cybersicherheit 🔒
+- 🛡️ [[Cybersicherheit & Datenschutz]] – Zusammenfassung der dazugehörigen Unterrichtsreihe
+
+<!--
 <strong>Zuletzt aktualisierte Notizen</strong>
 <ul>
   {% assign recent_notes = site.notes 
@@ -19,3 +29,4 @@ permalink: /Informatik
     </li>
   {% endfor %}
 </ul>
+-->
