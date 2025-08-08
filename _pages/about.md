@@ -25,8 +25,4 @@ Schau dir den Code auf [GitHub](https://github.com/lutz-stu/school-blog) an.
 
 **Für die Fächerauswahl auf der Startseite wurden einige Icons von [Flaticon](https://www.flaticon.com/) verwendet.**
 
-<a href="https://www.flaticon.com/free-icons/latin" title="latin icons">Latin icons created by Freepik - Flaticon</a>
-
 <a href="https://www.flaticon.com/free-icons/subject" title="subject icons">Subject icons created by Freepik - Flaticon</a>
-
-<a href="https://www.flaticon.com/free-icons/english" title="english icons">English icons created by Freepik - Flaticon</a>
