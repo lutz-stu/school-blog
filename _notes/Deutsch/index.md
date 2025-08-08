@@ -6,6 +6,14 @@ permalink: /Deutsch
 
 # Deutsch
 
+## Textanalyse & Interpretation 📝
+- 📜 [[Gedichtsanalyse]] – Analyse von Aufbau, Sprache und Wirkung eines Gedichts
+
+---
+
+- 📚 [[Inhaltsangabe]] – Zusammenfassung des Inhalts eines Textes
+
+<!--
 <strong>Zuletzt aktualisierte Notizen</strong>
 <ul>
   {% assign recent_notes = site.notes 
@@ -19,3 +27,4 @@ permalink: /Deutsch
     </li>
   {% endfor %}
 </ul>
+-->
