@@ -12,6 +12,7 @@ permalink: /Politik
 - 🛡️ [[Exekutive]] – Die ausführende Gewalt  
 - ⚖️ [[Judikative]] – Die rechtsprechende Gewalt
 
+<!--
 <strong>Zuletzt aktualisierte Notizen</strong>
 <ul>
   {% assign recent_notes = site.notes 
@@ -25,3 +26,4 @@ permalink: /Politik
     </li>
   {% endfor %}
 </ul>
+-->
