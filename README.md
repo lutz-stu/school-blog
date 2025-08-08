@@ -13,4 +13,4 @@
 
 
 ## TODO
-- [ ] Individuelle Fächer Seiten
+- [x] Individuelle Fächer Seiten
