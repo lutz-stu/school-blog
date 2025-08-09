@@ -8,5 +8,5 @@ title: Arbeit
 ### Einheit
 Joule (J)
 
-### Formal
-*W = F * s* ([[Kraft]] * Weg in Kraftrichtung)
+### Formel
+__*W = F * s*__ ([[Kraft]] * Weg in Kraftrichtung)

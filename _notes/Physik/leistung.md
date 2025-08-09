@@ -8,5 +8,5 @@ title: Leistung
 ### Einheit
 Watt (W)
 
-### Formal
-*P = W / t* (([[Arbeit]] / Zeit))
+### Formel
+__*P = W / t*__ (([[Arbeit]] / Zeit))

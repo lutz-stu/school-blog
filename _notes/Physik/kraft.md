@@ -8,5 +8,5 @@ title: Kraft
 ### Einheit
 Newton (N)
 
-### Formal
-*F = m * a* (Masse * Beschleunigung)
+### Formel
+__*F = m * a*__ (Masse * Beschleunigung)
