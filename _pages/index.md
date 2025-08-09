@@ -50,7 +50,7 @@ permalink: /
 </style>
 
 <p style="padding: 3em 1em; background: #f7ece8ff; border-radius: 4px;">
-    <b>Diese Webseite ist noch in der Entwicklungsphase und wird nur privat verwendet.</b>
+    <b>Diese Internetseite ist noch in der Entwicklungsphase und wird nur privat verwendet.</b>
 </p>
 
 <div class="subject-grid">
