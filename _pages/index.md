@@ -49,6 +49,10 @@ permalink: /
 }
 </style>
 
+<p style="padding: 3em 1em; background: #f7ece8ff; border-radius: 4px;">
+    <b>Diese Webseite ist noch in der Entwicklungsphase und wird nur privat verwendet.</b>
+</p>
+
 <div class="subject-grid">
   <a class="subject-card internal-link" href="{{ site.baseurl }}/Latein">
     <img src="https://cdn-icons-png.flaticon.com/512/9085/9085836.png" alt="Latein Icon"/>
@@ -103,7 +107,7 @@ permalink: /
 </ul> -->
 
 
-<strong>Zuletzt aktualisierte Notizen</strong>
+## Zuletzt aktualisierte Notizen
 
 <ul>
   {% assign recent_notes = site.notes | sort: "last_modified_at_timestamp" | reverse %}
