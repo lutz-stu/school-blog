@@ -9,4 +9,6 @@ title: Arbeit
 Joule (J)
 
 ### Formel
-__*W = F * s*__ ([[Kraft]] * Weg in Kraftrichtung)
+`W = F * s`
+
+*([[Kraft]] * Weg in Kraftrichtung)*
