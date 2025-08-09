@@ -7,6 +7,9 @@ permalink: /Physik
 # Physik
 
 ## Mechanik ⚙️
+- 🏋️ [[Kraft]] – Masse * Beschleunigung
+- ⚒️ [[Arbeit]] – Kraft * Weg
+- 🚀 [[Leistung]] – Arbeit / Zeit
 
 ## Elektrizität & Magnetismus ⚡
 
