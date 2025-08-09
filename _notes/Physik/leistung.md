@@ -9,6 +9,4 @@ title: Leistung
 Watt (W)
 
 ### Formel
-`P = W / t`
-
-*([[Arbeit]] / Zeit)*
+`P = W / t` *([[Arbeit]] / Zeit)*

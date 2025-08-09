@@ -9,6 +9,4 @@ title: Kraft
 Newton (N)
 
 ### Formel
-`F = m * a`
-
-*(Masse × Beschleunigung)*
+`F = m * a` *(Masse × Beschleunigung)*
