@@ -6,6 +6,30 @@ permalink: /Latein
 
 # Latein
 
+## Deklinationslehre
+
+- 🅰️ [[a-Deklination]] – z. B. puella, puellae
+- 🅾️ [[o-Deklination]] – z. B. servus, servi / bellum, belli
+- 🧱 [[3. Deklination (konsonantisch)]] – z. B. rex, regis / nomen, nominis
+- 📘 [[e-Deklination]] – z. B. res, rei
+- 🌊 [[u-Deklination]] – z. B. manus, manus
+
+## Konjugationslehre 🔤
+
+**Tabellen (jeweils mit Indikativ/Konjunktiv + Aktiv/Passiv):**
+
+- 🕒 [[Präsens]] – Gegenwart
+- 🏛️ [[Imperfekt]] – Vergangenheit
+- 📜 [[Perfekt]] – Vergangenheit
+- 🏺 [[Plusquamperfekt]] – Vorvergangenheit
+- 🔮 [[Futur I]] – Zukunft
+
+
+## Syntax 🧠
+- 🧱 [[Satzglieder]] – Subjekt, Prädikat, Objekt, …
+- 🔗 [[Partizipien]] – PPP & PPA
+
+<!--
 <strong>Zuletzt aktualisierte Notizen</strong>
 <ul>
   {% assign recent_notes = site.notes 
@@ -19,3 +43,4 @@ permalink: /Latein
     </li>
   {% endfor %}
 </ul>
+-->
