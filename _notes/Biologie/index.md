@@ -9,7 +9,7 @@ permalink: /Biologie
 ## Molekulare Genetik 🧬
 
 - 🧪 [[DNA]] – Aufbau, Basenpaarung und Funktion als Erbmaterial
-- 🧬 [[Chromosomen]] – Verpackung der DNA und Bedeutung im Zellkern
+- 🧬 [[Chromosomen]] – Verpackung der DNA
 - ✂️ [[Mitose]] – Zellteilung für Wachstum und Regeneration
 - 🎲 [[Meiose]] – Reifeteilung zur Bildung von Keimzellen
 
