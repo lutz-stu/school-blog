@@ -6,6 +6,13 @@ permalink: /Geschichte
 
 # Geschichte
 
+- 🏰 [[Imperialzeit]] – Kolonialherschafft der großen Mächte  
+- ⚔️ [[1. Weltkrieg]] – 1914 bis 1918  
+- 🕯️ [[NS-Regime]] – Herrschaft der Nationalsozialisten in Deutschland  
+- ⚔️ [[2. Weltkrieg]] – 1939 bis 1945  
+- ❄️ [[Kalter Krieg]] – Spannungen zwischen Ost- und Westblock nach 1945
+
+<!--
 <strong>Zuletzt aktualisierte Notizen</strong>
 <ul>
   {% assign recent_notes = site.notes 
@@ -19,3 +26,4 @@ permalink: /Geschichte
     </li>
   {% endfor %}
 </ul>
+-->

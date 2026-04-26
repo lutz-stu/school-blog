@@ -6,6 +6,16 @@ permalink: /Englisch
 
 # Englisch
 
+## Grammatik ✏️
+- 🚩 [[If-Sätze]] - Conditional clauses Typ 1, 2 und 3
+
+## Textanalyse & Interpretation 📝
+
+## Schreibfertigkeiten ✍️
+
+
+
+<!--
 <strong>Zuletzt aktualisierte Notizen</strong>
 <ul>
   {% assign recent_notes = site.notes 
@@ -19,3 +29,4 @@ permalink: /Englisch
     </li>
   {% endfor %}
 </ul>
+-->

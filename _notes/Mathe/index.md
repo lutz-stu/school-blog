@@ -6,6 +6,16 @@ permalink: /Mathe
 
 # Mathe
 
+## Algebra 🔢
+
+## Geometrie 📏
+
+## Funktionen 📈
+
+## Stochastik 🎲
+
+
+<!--
 <strong>Zuletzt aktualisierte Notizen</strong>
 <ul>
   {% assign recent_notes = site.notes 
@@ -19,3 +29,4 @@ permalink: /Mathe
     </li>
   {% endfor %}
 </ul>
+-->

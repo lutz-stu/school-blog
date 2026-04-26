@@ -6,6 +6,18 @@ permalink: /Physik
 
 # Physik
 
+## Mechanik ⚙️
+- 🏋️ [[Kraft]] – Masse * Beschleunigung
+- ⚒️ [[Arbeit]] – Kraft * Weg
+- 🚀 [[Leistung]] – Arbeit / Zeit
+
+## Elektrizität & Magnetismus ⚡
+
+## Optik & Wellen 🌊
+
+## Moderne Physik 🪐
+
+<!--
 <strong>Zuletzt aktualisierte Notizen</strong>
 <ul>
   {% assign recent_notes = site.notes 
@@ -19,3 +31,4 @@ permalink: /Physik
     </li>
   {% endfor %}
 </ul>
+-->

@@ -49,6 +49,10 @@ permalink: /
 }
 </style>
 
+<p style="padding: 3em 1em; background: #f7ece8ff; border-radius: 4px;">
+    <b>Diese Internetseite ist noch in der Entwicklungsphase und wird nur privat verwendet.</b>
+</p>
+
 <div class="subject-grid">
   <a class="subject-card internal-link" href="{{ site.baseurl }}/Latein">
     <img src="https://cdn-icons-png.flaticon.com/512/9085/9085836.png" alt="Latein Icon"/>
@@ -70,9 +74,9 @@ permalink: /
     <img src="https://cdn-icons-png.flaticon.com/512/8824/8824175.png" alt="Informatik Icon"/>
     <div class="subject-title">Informatik</div>
   </a>
-  <a class="subject-card internal-link" href="{{ site.baseurl }}/Chemie">
-    <img src="https://cdn-icons-png.flaticon.com/512/8276/8276792.png" alt="Chemie Icon"/>
-    <div class="subject-title">Chemie</div>
+  <a class="subject-card internal-link" href="{{ site.baseurl }}/Politik">
+    <img src="https://cdn-icons-png.flaticon.com/512/1651/1651652.png" alt="Politik Icon"/>
+    <div class="subject-title">Politik</div>
   </a>
   <a class="subject-card internal-link" href="{{ site.baseurl }}/Physik">
     <img src="https://cdn-icons-png.flaticon.com/512/887/887862.png" alt="Physik Icon"/>
@@ -103,7 +107,7 @@ permalink: /
 </ul> -->
 
 
-<strong>Zuletzt aktualisierte Notizen</strong>
+## Zuletzt aktualisierte Notizen
 
 <ul>
   {% assign recent_notes = site.notes | sort: "last_modified_at_timestamp" | reverse %}

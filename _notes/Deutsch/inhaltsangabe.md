@@ -16,6 +16,6 @@ title: Inhaltsangabe
 ## 🧩 Inhalt einer Inhaltsangabe
 
 - **Wiedergabe der zentralen Handlung** in chronologischer Reihenfolge
-- **Wichtige Figuren** kurz erwähnen und charakterisieren
+- **Wichtige Figuren** kurz erwähnen (und charakterisieren)
 - **Zentrale Konflikte oder Themen** deutlich machen
 - **Zeit, Ort und Situation** des Geschehens erläutern (nur wenn relevant)
