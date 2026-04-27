@@ -13,7 +13,7 @@ permalink: /Latein
 - 🧱 [[kons. Deklination]] – z. B. rex, regis / nomen, nominis
 - 📘 [[e-Deklination]] – z. B. res, rei
 - 🏺 [[i-Deklination]] – z. B. civis, civis / mare, maris
-- 🌊 [[u-Deklination]] – z. B. manus, manus
+- 🌊 [[u-Deklination]] – z. B. manus, manus / cornu, cornus
 
 ## Konjugationslehre 🔤
 
@@ -31,10 +31,10 @@ permalink: /Latein
 - 🔗 [[Partizipien]] – PPP & PPA
 
 ## Vokabeln 📚
-- 🏛️ [[Römische Kultur]] – z. B. imperium, senatus, forum
-- ❓ [[Fragewörter]] – z. B. quis, quid, ubi, quando
-- 👨‍👩‍👧‍👦 [[Familienbezeichnungen]] – z. B. pater, mater, filius, soror
+- ❓ [[Fragewörter]] – z. B. quis?, quid?, ubi?, quando?
 - 🔗 [[Konjunktionen]] – z. B. et, sed, quia, cum
+- 🏛️ [[Römische Kultur]] – z. B. imperium, senatus, forum
+- 👨‍👩‍👧‍👦 [[Familienbezeichnungen]] – z. B. pater, mater, filius, soror
 
 <!--
 <strong>Zuletzt aktualisierte Notizen</strong>
