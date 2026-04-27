@@ -6,12 +6,13 @@ permalink: /Latein
 
 # Latein
 
-## Deklinationslehre
+## Deklinationslehre 🔤
 
 - 🅰️ [[a-Deklination]] – z. B. puella, puellae
 - 🅾️ [[o-Deklination]] – z. B. servus, servi / bellum, belli
-- 🧱 [[konsonantische/3. Deklination]] – z. B. rex, regis / nomen, nominis
+- 🧱 [[kons. Deklination]] – z. B. rex, regis / nomen, nominis
 - 📘 [[e-Deklination]] – z. B. res, rei
+- 🏺 [[i-Deklination]] – z. B. civis, civis / mare, maris
 - 🌊 [[u-Deklination]] – z. B. manus, manus
 
 ## Konjugationslehre 🔤
@@ -28,6 +29,12 @@ permalink: /Latein
 ## Syntax 🧠
 - 🧱 [[Satzglieder]] – Subjekt, Prädikat, Objekt, …
 - 🔗 [[Partizipien]] – PPP & PPA
+
+## Vokabeln 📚
+- 🏛️ [[Römische Kultur]] – z. B. imperium, senatus, forum
+- ❓ [[Fragewörter]] – z. B. quis, quid, ubi, quando
+- 👨‍👩‍👧‍👦 [[Familienbezeichnungen]] – z. B. pater, mater, filius, soror
+- 🔗 [[Konjunktionen]] – z. B. et, sed, quia, cum
 
 <!--
 <strong>Zuletzt aktualisierte Notizen</strong>
