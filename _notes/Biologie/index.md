@@ -7,11 +7,13 @@ permalink: /Biologie
 # Biologie
 
 ## Molekulare Genetik 🧬
-
 - 🧪 [[DNA]] – Aufbau, Basenpaarung und Funktion als Erbmaterial
 - 🧬 [[Chromosomen]] – Verpackung der DNA
 - ✂️ [[Mitose]] – Zellteilung für Wachstum und Regeneration
 - 🎲 [[Meiose]] – Reifeteilung zur Bildung von Keimzellen
+
+## Genetik 🧬
+- 🧬 [[Mendelsche Regeln]] – Vererbung von Merkmalen
 
 <!--
 <strong>Zuletzt aktualisierte Notizen</strong>

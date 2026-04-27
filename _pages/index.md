@@ -87,7 +87,7 @@ permalink: /
     <div class="subject-title">Geschichte</div>
   </a>
   <a class="subject-card internal-link" href="{{ site.baseurl }}/Biologie">
-    <img src="" alt="Biologie Icon"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/13462/13462484.png" alt="Biologie Icon"/>
     <div class="subject-title">Biologie</div>
   </a>
 </div>
