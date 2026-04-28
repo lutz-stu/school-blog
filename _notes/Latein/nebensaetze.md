@@ -28,9 +28,11 @@ title: Nebensätze
 ## Konzessivsätze
 
 ### Indikativ
+- **quamquam:** obwohl
+- **etsi:** obwohl, auch wenn
 
 ### Konjunktiv
-
+- **cum:** obwohl
 
 ## Konditionalsätze
 
