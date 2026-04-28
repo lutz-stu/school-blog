@@ -94,7 +94,8 @@ a {
   }
   &.internal-link:after,
   &.footnote:after,
-  &.reversefootnote:after {
+  &.reversefootnote:after,
+  &:has(> img):after {
     content: "";
   }
 }
