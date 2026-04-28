@@ -4,7 +4,7 @@ title: Fabeln
 
 ## Gliederungsmerkmale einer Fabel
 - **Promythion (Vorwort)**: Ankündigung der Moral
-- **Exposition (Einführung)**: Vorstellung des Konflikts
+- **Expositio (Einführung)**: Vorstellung des Konflikts
 - **Actio/Reactio (Handlung/Reaktion)**: z.B. Wolf macht …, Lamm reagiert …
 - **Eventus (Resultat)**: z.B. Wolf frisst Lamm
 - **Epimythion (Nachwort):** Moral, Lehre
