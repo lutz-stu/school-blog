@@ -27,4 +27,4 @@ title: Fabeln
 - verübt schonungslose **Moralkritik** (Stimme des _kleinen Mannes_, der sich gegen die Mächtigen auflehnt)
 - er wünscht sich kein ungebildetes Publikum, sondern gebildete Leser, die seine **Anspielungen** verstehen
 - **wir wissen nicht, wer sich hinter dem Namen Phaedrus verbirgt**
-- **bei der Rekonztruktion eriner antiken Dichterbiographie muss man vorsichtig sein**
+- **bei der Rekonstruktion einer antiken Dichterbiographie muss man vorsichtig sein**
