@@ -17,7 +17,7 @@ Person | e-Konj. | a-Konj. | i-Konj. | kons. Konj. | gemisch. Konj.
 **2. Pl.** | habu**-isse-tis** | amav**-isse-tis** | audiv**-isse-tis** | rex**-isse-tis** | cep**-isse-tis**
 **3. Pl.** | habu**-isse-nt** | amav**-isse-nt** | audiv**-isse-nt** | rex**-isse-nt** | cep**-isse-nt**
 
-- Perfektwortstamm (-isse-) + Personalendung (-m, -s, -t, -mus, -tis, -nt)
+- Perfektstamm + -isse- + Personalendung (-m, -s, -t, -mus, -tis, -nt)
 
 ## Konjunktiv Passiv
 
