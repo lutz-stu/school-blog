@@ -6,7 +6,9 @@ permalink: /about
 
 Diese Seite wurde ursprünglich im Rahmen eines Schulprojekts im Informatikunterricht gestartet.
 
-Kontakt: <lutz-stu@posteo.com>
+Die Inhalte wurden nach bestem Wissen und Gewissen erstellt, aber es könnte Fehler geben. Wenn du welche findest, gerne melden!
+
+**Kontakt:** <lutz-stu@posteo.com>
 
 Schau dir den Code auf [GitHub](https://github.com/lutz-stu/school-blog) an.
 
