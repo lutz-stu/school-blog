@@ -6,8 +6,11 @@ title: a-Deklination
 
 Kasus | Singular | Plural
 --- | --- | ---
-**Nominativ** | puella | puellae
-**Genitiv** | puellae | puellarum
-**Dativ** | puellae | puellis
-**Akkusativ** | puellam | puellas
-**Ablativ** | puella | puellis
+**Nominativ** | puell**-a** | puell**-ae**
+**Genitiv** | puell**-ae** | puell**-arum**
+**Dativ** | puell**-ae** | puell**-is**
+**Akkusativ** | puell**-am** | puell**-as**
+**Ablativ** | puell**-a** | puell**-is**
+
+- **Sgl.:** -a, -ae, -ae, -am, -a
+- **Pl.:** -ae, -arum, -is, -as, -is
