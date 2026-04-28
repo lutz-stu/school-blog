@@ -51,7 +51,7 @@ title: Nebensätze
 
 ## Konsekutivsätze
 
-- **Hinweiswort** (z.B. tam) im Hautpsatz
+- **Hinweiswort** (z.B. tam) im Hauptsatz
 
 ### Konjunktiv
 
