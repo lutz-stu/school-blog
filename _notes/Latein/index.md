@@ -29,6 +29,7 @@ permalink: /Latein
 ## Syntax 🧠
 - 🧱 [[Satzglieder]] – Subjekt, Prädikat, Objekt, …
 - 🔗 [[Partizipien]] – PPP & PPA
+- ➡️ [[Nebensätze]] – Temporal-/Kausal-/Konzessiv-/Konditional-/Final-/Konsekutivsätze
 
 ## Altertumskunde 🏛️
 - 🐉 [[Fabeln]] – z. B. Phaedrus
