@@ -30,6 +30,9 @@ permalink: /Latein
 - 🧱 [[Satzglieder]] – Subjekt, Prädikat, Objekt, …
 - 🔗 [[Partizipien]] – PPP & PPA
 
+## Altertumskunde 🏛️
+- 🐉 [[Fabeln]] – z. B. Phaedrus
+
 ## Vokabeln 📚
 - ❓ [[Fragewörter]] – z. B. quis?, quid?, ubi?, quando?
 - 🔗 [[Konjunktionen]] – z. B. et, sed, quia, cum
