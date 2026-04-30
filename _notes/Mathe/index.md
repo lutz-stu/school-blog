@@ -7,13 +7,28 @@ permalink: /Mathe
 # Mathe
 
 ## Algebra 🔢
+- 💯 [[Prozente]]
+- 🌱 [[Wurzeln]] – Wurzelgesetze, Wurzelgleichungen, etc.
+- 💶 [[Zinsen]]
+- 🧮 [[Potenzen]] – Potenzgesetze, Potenzgleichungen, etc.
 
 ## Geometrie 📏
+- 📐 [[Größenenheiten]] – Längen-/Flächen-/Volumen-/Gewichts/Zeit-Einheiten
+- ⬛ [[Flächeninhalt und Umfang von Vielecken]] – Kreis, Dreieck, Quadrat, Rechteck, Trapez, Parallelogramm
+- 📦 [[Flächeninhalt und Volumen von Körpern]] – Würfel, Quader, Prisma, Pyramide, Kegel, Zylinder, Kugel
+- 📏 [[Zentrische Steckung und Ähnlichkeit]] – Streckfaktor, Strahlensatz, Ähnlichkeit
+- 🔺 [[Geometrie und Trigonometrie im Dreieck]] – Rechtwinklige Dreiecke, Satz d. Pythagoras, Kosinussatz, An-/Gegenkathete + Hypotenuse
 
 ## Funktionen 📈
+- ➖ [[Lineare Funktionen]]
+- ⬜ [[Quadratische Funktionen]]
+- 📈 [[Exponentialfunktionen]]
+- 🌊 [[Sinusfunktionen]]
 
 ## Stochastik 🎲
-
+- 🎲 [[Zufallsexperimente]] – mit/ohne Zurücklegen, Laplace-Experiment, etc.
+- 🌳 [[Baumdiagramme]] – Pfadregeln, etc.
+- 🎯 [[Bedingte Wahrscheinlichkeit]] – Stochastische Unabhängigkeit, Vierfeldertafel, umgekehrtes Bamdiagramm
 
 <!--
 <strong>Zuletzt aktualisierte Notizen</strong>
