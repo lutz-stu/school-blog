@@ -11,6 +11,9 @@ permalink: /Mathe
 - 🌱 [[Wurzeln]] – Wurzelgesetze, Wurzelgleichungen, etc.
 - 💶 [[Zinsen]]
 - 🧮 [[Potenzen]] – Potenzgesetze, Potenzgleichungen, etc.
+- 🧩 [[Binomische Formeln]]
+- ✏️ [[Lineare Gleichungen und Gleichungssysteme]] – Gleichungen lösen, Variablen bestimmen, Gleichungssysteme mit zwei Unbekannten
+- 🟦 [[Quadratische Gleichungen]] – Mitternachtsformel, pq-Formel, Nullstellen und Parabeln
 
 ## Geometrie 📏
 - 📐 [[Größenenheiten]] – Längen-/Flächen-/Volumen-/Gewichts/Zeit-Einheiten
