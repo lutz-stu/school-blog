@@ -26,7 +26,7 @@ permalink: /Mathe
 - ➖ [[Lineare Funktionen]]
 - ⬜ [[Quadratische Funktionen]]
 - 📈 [[Exponentialfunktionen]]
-- 🌊 [[Sinusfunktionen]]
+- 🌊 [[Sinusfunktion]]
 
 ## Stochastik 🎲
 - 🎲 [[Zufallsexperimente]] – mit/ohne Zurücklegen, Laplace-Experiment, etc.
