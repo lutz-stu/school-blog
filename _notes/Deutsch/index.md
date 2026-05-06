@@ -6,13 +6,13 @@ permalink: /Deutsch
 
 # Deutsch
 
-## Textanalyse & Interpretation 📝
-- 📜 [[Gedichtanalyse]] – Analyse von Aufbau, Sprache und Wirkung eines Gedichts
+## Analysieren 🔎
+- 📖 [[Einen epischen Text analysieren]] — z.B. Romanauszug, Erzählung, …
+- 🪶 [[Einen lyrischen Text analysieren]] — z.B. Gedicht, Lied, …
 
-## Zusammenfassung & Darstellung 📄
-- 📚 [[Inhaltsangabe]] – Zusammenfassung des Inhalts eines Textes
+## Informieren 📰
+- ℹ️ [[Einen informierenden Text verfassen]]
 
-<!--
 <strong>Zuletzt aktualisierte Notizen</strong>
 <ul>
   {% assign recent_notes = site.notes 
@@ -26,4 +26,3 @@ permalink: /Deutsch
     </li>
   {% endfor %}
 </ul>
--->
