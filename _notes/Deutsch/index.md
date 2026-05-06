@@ -16,7 +16,7 @@ permalink: /Deutsch
 <strong>Zuletzt aktualisierte Notizen</strong>
 <ul>
   {% assign recent_notes = site.notes 
-    | where_exp: "note", "note.path contains '/Deutsch/'"
+    | where_exp: "note", "note.path contains '/Deutsch/' and note.path != '_notes/Deutsch/index.md'"
     | sort: "last_modified_at_timestamp" 
     | reverse %}
   {% for note in recent_notes %}
