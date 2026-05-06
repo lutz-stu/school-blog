@@ -16,7 +16,7 @@ permalink: /Mathe
 - 🟦 [[Quadratische Gleichungen]] – Mitternachtsformel, pq-Formel, Nullstellen und Parabeln
 
 ## Geometrie 📏
-- 📐 [[Größenenheiten]] – Längen-/Flächen-/Volumen-/Gewichts/Zeit-Einheiten
+- 📐 [[Größeneneinheiten]] – Längen, Flächen, Volumen, Masse
 - ⬛ [[Flächeninhalt und Umfang von Vielecken]] – Kreis, Dreieck, Quadrat, Rechteck, Trapez, Parallelogramm
 - 📦 [[Flächeninhalt und Volumen von Körpern]] – Würfel, Quader, Prisma, Pyramide, Kegel, Zylinder, Kugel
 - 📏 [[Zentrische Steckung und Ähnlichkeit]] – Streckfaktor, Strahlensatz, Ähnlichkeit
@@ -26,7 +26,7 @@ permalink: /Mathe
 - ➖ [[Lineare Funktionen]]
 - ⬜ [[Quadratische Funktionen]]
 - 📈 [[Exponentialfunktionen]]
-- 🌊 [[Sinusfunktionen]]
+- 🌊 [[Sinusfunktion]]
 
 ## Stochastik 🎲
 - 🎲 [[Zufallsexperimente]] – mit/ohne Zurücklegen, Laplace-Experiment, etc.
