@@ -13,6 +13,8 @@ permalink: /Deutsch
 ## Informieren 📰
 - ℹ️ [[Einen informierenden Text verfassen]]
 
+---
+
 <strong>Zuletzt aktualisierte Notizen</strong>
 <ul>
   {% assign recent_notes = site.notes 
