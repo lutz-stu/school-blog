@@ -2,11 +2,11 @@
 title: Binomische Formeln
 ---
 
-## 1. Binomische Formel
+## 1. Binomische Formel (+)
 
 $$ (a + b)^2 = a^2 + 2ab + b^2 $$
 
-## 2. Binomische Formel
+## 2. Binomische Formel (-)
 
 $$ (a - b)^2 = a^2 - 2ab + b^2 $$
 
