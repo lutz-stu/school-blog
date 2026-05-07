@@ -24,9 +24,9 @@ permalink: /Mathe
 
 ## Funktionen 📈
 - ➖ [[Lineare Funktionen]] – $ f(x) = mx + b $
-- ⬜ [[Quadratische Funktionen]] – $ f(x) = a(x - d)^2 + e $ / $ f(x) = ax^2 + bx + c $
+- ⬜ [[Quadratische Funktionen]] – $ f(x) = a(x - d)^2 + e $ oder $ f(x) = ax^2 + bx + c $
 - 📈 [[Exponentialfunktionen]] – $ f(x) = \pm c \cdot a^x+b + d $
-- 🌊 [[Sinus- & Kosinusfunktion]] – $ f(x) = a \cdot \sin(b \cdot x) + d $ / $ f(x) = a \cdot \cos(b \cdot x) + d $
+- 🌊 [[Sinus- & Kosinusfunktion]] – $ f(x) = a \cdot \sin(b \cdot x) + d $ oder $ f(x) = a \cdot \cos(b \cdot x) + d $
 
 ## Stochastik 🎲
 - 🎲 [[Zufallsexperimente]] – mit/ohne Zurücklegen, Laplace-Experiment, etc.
