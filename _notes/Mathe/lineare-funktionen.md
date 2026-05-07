@@ -2,7 +2,7 @@
 title: Lineare Funktionen
 ---
 
-$$ f(x) = m \cdot x + b $$
+**$$ f(x) = m \cdot x + b $$**
 
 - $ m $: Steigung der Funktion
 - $ b $: y-Achsenabschnitt der Funktion
@@ -31,3 +31,22 @@ $$ b = y_1 - m \cdot x_1 $$
 **$ m $ und $ b $ in die allgemeine Form einsetzen**
 
 $$ f(x) = m \cdot x + b $$
+
+## Schnittpunkt zweier Funktionen berechnen
+
+### Gegeben:
+
+- $ f_1(x) = m_1 \cdot x + b_1 $
+- $ f_2(x) = m_2 \cdot x + b_2 $
+
+### 1. Gleichsetzen und nach $ x $ auflösen:
+
+$$ m_1 \cdot x + b_1 = m_2 \cdot x + b_2 $$
+
+### 2. $ x $ in eine der Funktionen einsetzen, um $ y $ zu berechnen:
+
+$$ y = m_1 \cdot x + b_1 $$
+
+### 3. Schnittpunkt angeben:
+
+$$ S(x, y) $$
