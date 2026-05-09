@@ -13,7 +13,7 @@ permalink: /Mathe
 - 🧮 [[Potenzen]] – Potenzgesetze, Potenzgleichungen, etc.
 - 🧩 [[Binomische Formeln]]
 - ✏️ [[Lineare Gleichungen und Gleichungssysteme]] – Gleichungen lösen, Variablen bestimmen, Gleichungssysteme mit zwei Unbekannten
-- 🟦 [[Quadratische Gleichungen]] – Mitternachtsformel, pq-Formel, Nullstellen und Parabeln
+- 🟦 [[Quadratische Gleichungen]] – pq-Formel, Nullstellen und Parabeln
 
 ## Geometrie 📏
 - 📐 [[Größeneneinheiten]] – Längen, Flächen, Volumen, Masse
@@ -23,10 +23,10 @@ permalink: /Mathe
 - 🔺 [[Geometrie und Trigonometrie im Dreieck]] – Rechtwinklige Dreiecke, Satz d. Pythagoras, Kosinussatz, An-/Gegenkathete + Hypotenuse
 
 ## Funktionen 📈
-- ➖ [[Lineare Funktionen]]
-- ⬜ [[Quadratische Funktionen]]
-- 📈 [[Exponentialfunktionen]]
-- 🌊 [[Sinusfunktion]]
+- ➖ [[Lineare Funktionen]] – $ f(x) = mx + b $
+- ⬜ [[Quadratische Funktionen]] – $ f(x) = a(x - d)^2 + e $ oder $ f(x) = ax^2 + bx + c $
+- 📈 [[Exponentialfunktionen]] – $ f(x) = \pm c \cdot a^x+b + d $
+- 🌊 [[Sinus- & Kosinusfunktion]] – $ f(x) = a \cdot \sin(b \cdot x) + d $ und $ f(x) = a \cdot \cos(b \cdot x) + d $
 
 ## Stochastik 🎲
 - 🎲 [[Zufallsexperimente]] – mit/ohne Zurücklegen, Laplace-Experiment, etc.
