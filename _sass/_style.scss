@@ -153,7 +153,8 @@ th,
 td {
   padding: 0.55em 0.8em;
   text-align: left;
-  white-space: nowrap;
+  white-space: normal;
+  overflow-wrap: anywhere;
   background: transparent;
   border-bottom: 1px solid #d9e4ff;
 }
