@@ -34,7 +34,7 @@ title: Einen lyrischen Text analysieren
 - **wörtliche Rede:** Sätze, die in Anführungszeichen stehen und die wörtlichen Äußerungen einer Figur wiedergeben _(z.B. "Er sagte: 'Ich liebe dich.'")_
 - …
 
-#### Sprachliche Mittel
+#### [[Sprachliche Mittel]]
 
 - **Akkumulation:** Anhäufung von Wörtern oder Begriffen zu einem Oberbegriff _(z.B. "Sonne, Mond und Sterne" für "Himmelskörper")_
 - **Alliteration:** Wiederholung des Anfangslauts benachbarter Wörter

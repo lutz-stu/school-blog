@@ -29,7 +29,7 @@ title: Einen epischen Text analysieren
 - **Parataxe:** Hauptsätze werden aneinandergereiht _(z.B. "Er kam, sah und siegte.")_
 - **Hypotaxe:** Haupt- und Nebensätze werden miteinander verbunden _(z.B. "Nachdem er gekommen war, sah er sich um, bevor er schließlich siegte.")_
 
-#### Sprachliche Mittel
+#### [[Sprachliche Mittel]]
 
 - **Alliteration:** Wiederholung des Anfangslauts benachbarter Wörter
 - **Anapher:** Wiederholung eines Wortes oder einer Phrase am Anfang mehrerer Sätze oder Verszeilen
