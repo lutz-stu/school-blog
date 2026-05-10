@@ -90,6 +90,14 @@ permalink: /
     <img src="https://cdn-icons-png.flaticon.com/512/13462/13462484.png" alt="Biologie Icon"/>
     <div class="subject-title">Biologie</div>
   </a>
+  <a class="subject-card internal-link" href="{{ site.baseurl }}/Musik">
+    <img src="https://cdn-icons-png.flaticon.com/512/3083/3083417.png" alt="Musik Icon"/>
+    <div class="subject-title">Musik</div>
+  </a>
+  <a class="subject-card internal-link" href="{{ site.baseurl }}/Kunst">
+    <img src="https://cdn-icons-png.flaticon.com/512/2970/2970785.png" alt="Kunst Icon"/>
+    <div class="subject-title">Kunst</div>
+  </a>
 </div>
 
 
