@@ -62,7 +62,7 @@ Stilmittel | Erklärung | Beispiel | Wirkung
 **Ironie** | Aussage, die den eigentlichen Sinn entgegensetzt | _Das hast du ja toll gemacht!_ (wenn es tatsächlich schlecht gemacht wurde) | Humorvolle, kritische oder provokante Wirkung
 **Klimax** | stufenartige Steigerung | _Er kam, sah und siegte_ | Dramatisierend und für Spannung sorgend
 **Lautmalerei** | Verwendung von Wörtern, die den Klang dessen nachahmen, was sie beschreiben  | _Kuckuck_, _Rauschen_ | Erzeugt eine lebendige und anschauliche Beschreibung
-**Metapher** | Vergleich ohne _wie_; ein Wort wird in übertragener Bedeutung verwendet | _Die Sonne lacht_ | Verdeutlicht komplexe Ideen durch anschauliche Bilder
+**Metapher** | Vergleich ohne _wie_; ein Wort wird in übertragener Bedeutung verwendet | _Das Leben ist eine Achterbahn_ | Verdeutlicht komplexe Ideen durch anschauliche Bilder
 **Neologismus** | Wortneuschöpfung | _Ostalgie_ (Nostalgie für die DDR) | Prägnante Ausdrucksweise, um lange Beschreibungen zu vermeiden; Erregt Aufmerksamkeit; Bewertent
 **Oxymoron** | Verbindung von zwei sich widersprechenden Begriffen  | _bittersüß_, _alter Knabe_ | Erzeugt eine paradoxe Wirkung, die zum Nachdenken anregt
 **Paradoxon** | scheinbar widersprüchliche, aber tatsächlich wahre Aussage  | _Weniger ist mehr_ | Regt zum Nachdenken an
