@@ -22,13 +22,13 @@ $$ m = \frac{y_2 - y_1}{x_2 - x_1} $$
 
 #### 2. y-Achsenabschnitt $ b $ berechnen:
 
-- **$ m $ und einen Punkt in die Funktionsgleichung einsetzen**
+- $ m $ und einen Punkt in die Funktionsgleichung einsetzen
 
 $$ b = y_1 - m \cdot x_1 $$
 
 #### 3. Funktion aufstellen:
 
-- **$ m $ und $ b $ in die allgemeine Form einsetzen**
+- $ m $ und $ b $ in die allgemeine Form einsetzen
 
 $$ f(x) = m \cdot x + b $$
 
