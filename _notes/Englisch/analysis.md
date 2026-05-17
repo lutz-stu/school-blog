@@ -10,6 +10,11 @@ title: Analysis
 - Sind die Wörter eher **positiv** oder **negativ** konnotiert _(positive or negative connotations)_? _(z.B. "slender" vs. "skinny")_
 - Werden viele betonende Adjektive/Adverbien (**_intensifying adverbs_**) verwendet? _(z.B. absolutely, completely, extremely, etc.)_
 - Werden viele **emotionale Verben** (**_emotional verbs_**) verwendet? _(z.B. to cry, to shout, to laugh, etc.)_
+- **Mögliche Wirkung:** 
+  - Betonung eines Themas _(emphasizing a theme)_
+  - Vermittlung von Emotionen _(conveying emotions)_
+  - Erzeugung einer bestimmten Atmosphäre _(creating a certain atmosphere)_
+  - Beeinflussung der Lesermeinung _(influencing the reader's opinion)_
 
 ### Sprachregister (register)
 - formales Englisch _(sophisticated, formal register)_
@@ -17,9 +22,9 @@ title: Analysis
 - Umgangssprache _(colloquial English)_
 - Jugendsprache _(teenage slang)_
 - **Mögliche Wirkung:** 
-  - vereinfachte Identifikation
-  - gebildete/glaubwürdige Erscheinung des Autors
-  - sympathisch wirkende Romanfigur
+  - vereinfachte Identifikation _(easy identification)_
+  - gebildete/glaubwürdige Erscheinung des Autors _(educated/plausible appearance of the author)_
+  - sympathisch wirkende Romanfigur _(likeable portrayal of the fictional character)_
 
 ### Satzbau (syntax)
 - parataktische Satzstruktur _(rather short sentences)_ (aus Hauptsätzen bestehend, oft kurz)
@@ -27,10 +32,10 @@ title: Analysis
 - Wortauslassungen / unvollständige Sätze _(elliptical sentences)_
 - Ansammlungen von Schlagwörtern _(accumulation of key words)_
 - **Mögliche Wirkung:** 
-  - schnelle Handlung
-  - einfache Verständlichkeit
-  - Vermittlung komplexer Gedanken
-  - Spannung
+  - schnelle Handlung _(fast-paced action)_
+  - einfache Verständlichkeit _(easy understandability)_
+  - Vermittlung komplexer Gedanken _(conveying complex ideas)_
+  - Spannung _(tension)_
 
 ### Stilmittel (stylistic devices)
 - Metaphern _(metaphors)_
@@ -40,6 +45,12 @@ title: Analysis
 - rhetorische Fragen _(rhetorical questions)_
 - Anaphern _(anaphora)_
 - …
+- **Mögliche Wirkung:** 
+  - betonend _(emphasizing)_
+  - veranschaulichend _(illustrating)_
+  - rhytmisierend _(rhythmic)_
+  - provozierend / zum Nachdenken anregend / aufmerksamkeitserregend _(provocative / thought-provoking / attention-grabbing)_
+  - emotionalisierend _(emotional)_
 
 ## Analyse der Erzählperspektive (narrative technique)
 
@@ -81,9 +92,11 @@ title: Analysis
 
 ## Tipps
 - Fokus auf das, wonach in der Aufgabenstellung **gefragt** wird
-- <mark><strong>Was</strong> wird vermittelt? <strong>Wie</strong> wird es vermittelt? Welche <strong><a class="internal-link" href="#moegliche-wirkungen">Wirkung</a></strong> <em>(affect)</em> hat es auf den Leser?</mark>
-
-<h2 id="moegliche-wirkungen">Mögliche Wirkungen</h2>
+- <mark><strong>Was</strong> wird vermittelt? <strong>Wie</strong> wird es vermittelt? Welche <strong>Wirkung</strong> <em>(affect)</em> hat es auf den Leser?</mark>
 
 ## Formulierungshilfen
 - _In the following, the … will be analysed closely. In addition, narrative techniques emloyed in the text and the author's use of language will also be focused on._
+- _The subject of … is portrayed as …_
+- _This becomes clear when looking at …_
+- _Narrative techniques also help to portray …_
+- _The use of … has the effect that …_
