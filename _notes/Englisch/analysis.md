@@ -44,12 +44,40 @@ title: Analysis
 ## Analyse der Erzählperspektive (narrative technique)
 
 ### First-person narrator
+- Ich-Form
+- kennt nur die Gedanken und Gefühle einer Figur
+- **Mögliche Wirkung:** 
+  - starke Identifikation mit der Figur
+  - subjektive Sichtweise auf die Handlung
 
 ### Third-person limited narrator
+- Er/Sie-Form
+- kennt nur die Gedanken und Gefühle einer Figur
+- **Mögliche Wirkung:** 
+  - Identifikation mit der Figur
+  - objektivere Sichtweise auf die Handlung
 
 ### Third-person omniscient narrator
+- Er/Sie-Form
+- kennt die Gedanken und Gefühle aller Figuren
+- schaut von oben auf die Handlung herab
+- **Mögliche Wirkung:** 
+  - umfassende Kenntnis der Handlung
+  - objektive Sichtweise auf die Handlung
+
+### Third-person neutral narrator
+- Er/Sie-Form
+- kennt die Gedanken und Gefühle keiner Figur
+- **Mögliche Wirkung:** 
+  - objektive Sichtweise auf die Handlung
+  - Distanzierung vom Handlungsgeschehen
 
 ## Zitieren
+
+- **einzelnen Begriff:** _"something" (l. 5)_
+- **ganzes Zitat:** _"This is […] something." (ll. 12-14)_ (ggf. mit Auslassung)
+- **ganzes Zitat in Klammern:** _… ("something", l. 5)_
+- **Verweis:** _… (cf. ll. 6-8)_
 
 ## Tipps
 - Fokus auf das, wonach in der Aufgabenstellung **gefragt** wird
