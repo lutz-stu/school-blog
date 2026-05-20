@@ -62,8 +62,8 @@ Stilmittel | Erklärung | Beispiel | Wirkung
 **Ironie** | Aussage, die den eigentlichen Sinn entgegensetzt | _Das hast du ja toll gemacht!_ (wenn es tatsächlich schlecht gemacht wurde) | Humorvolle, kritische oder provokante Wirkung
 **Klimax** | stufenartige Steigerung | _Er kam, sah und siegte_ | Dramatisierend und für Spannung sorgend
 **Lautmalerei** | Verwendung von Wörtern, die den Klang dessen nachahmen, was sie beschreiben  | _Kuckuck_, _Rauschen_ | Erzeugt eine lebendige und anschauliche Beschreibung
-**Metapher** | Vergleich ohne _wie_; ein Wort wird in übertragener Bedeutung verwendet | _Die Sonne lacht_ | Verdeutlicht komplexe Ideen durch anschauliche Bilder
-**Neologismus** | Wortneuschöpfung | _Ostalgie_ (Nostalgie für die DDR) | Prägnante Ausdrucksweise, um lange Beschreibungen zu vermeiden; Erregt Aufmerksamkeit; Bewertent
+**Metapher** | Vergleich ohne _wie_; ein Wort wird in übertragener Bedeutung verwendet | _Das Leben ist eine Achterbahn_ | Verdeutlicht komplexe Ideen durch anschauliche Bilder
+**Neologismus** | Wortneuschöpfung | _Ostalgie_ (Nostalgie für die DDR) | Prägnante Ausdrucksweise, um lange Beschreibungen zu vermeiden; Erregt Aufmerksamkeit; Bewertend
 **Oxymoron** | Verbindung von zwei sich widersprechenden Begriffen  | _bittersüß_, _alter Knabe_ | Erzeugt eine paradoxe Wirkung, die zum Nachdenken anregt
 **Paradoxon** | scheinbar widersprüchliche, aber tatsächlich wahre Aussage  | _Weniger ist mehr_ | Regt zum Nachdenken an
 **Parallelismus** | Wiederholung gleicher Satzstrukturen in aufeinanderfolgenden Sätzen | _Schnell lief er hin, langsam kam er zurück_ | Verstärkt die Aussage und schafft Rhythmus
@@ -71,3 +71,10 @@ Stilmittel | Erklärung | Beispiel | Wirkung
 **Rhetorische Frage** | Frage, die keine Antwort erwartet | _Wer ist schon perfekt?_ | Betont die offensichtliche Antwort; Provoziert; Regt zum Nachdenken an; Vermeintliche Ansprache an den Leser
 **Vergleich** | Beziehung zwischen zwei verschiedenen Dingen  | _Stark wie ein Löwe_, _Schneller als der Blitz_ | Schafft anschauliche Bilder; Zeigt die Gemeinsamkeiten
 **Wiederholung** | mehrmalige Verwendung eines Wortes oder einer Phrase | _Nie, nie, nie werde ich das tun!_ | Betont & verstärkt die Aussage; Schafft Rhythmus
+
+### Wirkungen
+- betonend
+- veranschaulichend
+- rhytmisierend
+- provozierend / zum Nachdenken anregend / aufmerksamkeitserregend
+- emotionalisierend

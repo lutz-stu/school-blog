@@ -6,14 +6,14 @@ permalink: /Englisch
 
 # Englisch
 
+## Schreiben ✍️
+- 🧾 [[Summary]] – Zusammenfassung des Inhalts
+- 🔎 [[Analysis]] – Analyse von Sprache & Erzählperspektive
+- 🗣️ [[Comment & Discussion]] – den eigenen Standpunkt darstellen bzw. Pro-/Kontra-Argumente abwägen
+- ✨ [[Creative writing]] – z.B. letter, diary entry, continuation of the story, etc.
+
 ## Grammatik ✏️
-- 🚩 [[If-Sätze]] - Conditional clauses Typ 1, 2 und 3
-
-## Textanalyse & Interpretation 📝
-
-## Schreibfertigkeiten ✍️
-
-
+- 🚩 [[If-Sätze]] - Conditional clauses Type 1, 2 & 3
 
 <!--
 <strong>Zuletzt aktualisierte Notizen</strong>
