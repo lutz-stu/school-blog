@@ -20,7 +20,7 @@ permalink: /Mathe
 - ⬛ [[Flächeninhalt und Umfang von Vielecken]] – Kreis, Dreieck, Quadrat, Rechteck, Trapez, Parallelogramm
 - 📦 [[Flächeninhalt und Volumen von Körpern]] – Würfel, Quader, Prisma, Pyramide, Kegel, Zylinder, Kugel
 - 📏 [[Zentrische Steckung und Ähnlichkeit]] – Streckfaktor, Strahlensatz, Ähnlichkeit
-- 🔺 [[Geometrie und Trigonometrie im Dreieck]] – Rechtwinklige Dreiecke, Satz d. Pythagoras, Kosinussatz, An-/Gegenkathete + Hypotenuse
+- 🔺 [[Geometrie und Trigonometrie im Dreieck]] – Rechtwinklige Dreiecke, Satz d. Pythagoras, Kosinussatz, AK/GK/HY
 
 ## Funktionen 📈
 - ➖ [[Lineare Funktionen]] – $ f(x) = mx + b $
