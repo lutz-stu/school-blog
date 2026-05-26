@@ -4,7 +4,7 @@ title: Lineare Funktionen
 
 $$ f(x) = m \cdot x + b $$
 
-- $ m $: Steigung der Funktion
+- $ m $: Steigung
 - $ b $: y-Achsenabschnitt der Funktion
 
 ## Funktion aufstellen
