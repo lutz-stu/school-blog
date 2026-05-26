@@ -13,7 +13,7 @@ permalink: /Mathe
 - 🧮 [[Potenzen]] – Potenzgesetze, Potenzgleichungen, etc.
 - 🧩 [[Binomische Formeln]]
 - ✏️ [[Lineare Gleichungen und Gleichungssysteme]] – Gleichungen lösen, Variablen bestimmen, Gleichungssysteme mit zwei Unbekannten
-- 🟦 [[Quadratische Gleichungen]] – Nullstellen
+- 🟦 [[Quadratische Gleichungen]] – lösen durch Umstellen, Ausklammern, Vieta, pq-Formel
 
 ## Geometrie 📏
 - 📐 [[Größeneneinheiten]] – Längen, Flächen, Volumen, Masse
