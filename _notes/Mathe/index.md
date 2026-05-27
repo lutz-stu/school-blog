@@ -29,7 +29,7 @@ permalink: /Mathe
 - 🌊 [[Sinusfunktion]] – $ f(x) = a \cdot \sin(b \cdot (x - c)) + d $
 
 ## Stochastik 🎲
-- 🎲 [[Zufallsexperimente]] – mit/ohne Zurücklegen, Laplace-Experiment, etc.
+- 🎲 [[Statistische Daten und Darstellungen]] – Spannweite, Mittelwert, Boxplot, etc.
 - 🌳 [[Baumdiagramme]] – Pfadregeln, etc.
 - 🎯 [[Bedingte Wahrscheinlichkeit]] – Stochastische Unabhängigkeit, Vierfeldertafel, umgekehrtes Bamdiagramm
 
