@@ -32,7 +32,8 @@ permalink: /Latein
 - ➡️ [[Nebensätze]] – Temporal-/Kausal-/Konzessiv-/Konditional-/Final-/Konsekutivsätze
 
 ## Altertumskunde 🏛️
-- 🐉 [[Fabeln]] – z. B. Phaedrus
+- 🐉 [[Fabeln]] – Phaedrus
+- 🌿 [[Caesar]] – Bellum Gallicum
 
 ## Vokabeln 📚
 - ❓ [[Fragewörter]] – z. B. quis?, quid?, ubi?, quando?
