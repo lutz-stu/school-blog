@@ -25,7 +25,6 @@ permalink: /Latein
 - 🏺 [[Plusquamperfekt]] – Vorvergangenheit
 - 🔮 [[Futur I]] – Zukunft
 
-
 ## Syntax 🧠
 - 🧱 [[Satzglieder]] – Subjekt, Prädikat, Objekt, …
 - 🔗 [[Partizipien]] – PPP & PPA
@@ -39,6 +38,7 @@ permalink: /Latein
 - ❓ [[Fragewörter]] – z. B. quis?, quid?, ubi?, quando?
 - 🔗 [[Konjunktionen]] – z. B. et, sed, quia, cum
 - 🏛️ [[Römische Kultur]] – z. B. imperium, senatus, forum
+- ⚔️ [[Krieg]] – z. B. bellum, hostis, proelium
 - 👨‍👩‍👧‍👦 [[Familienbezeichnungen]] – z. B. pater, mater, filius, soror
 
 <!--
