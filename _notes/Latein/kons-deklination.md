@@ -25,7 +25,8 @@ Kasus | Singular | Plural
 **Akkusativ** | nomen | nomin**-a**
 **Ablativ** | nomin**-e** | nomin**-ibus**
 
-- **Akk.** = Nom.
+- **Akk. Sgl.** = Nom.
+- **Nom./Akk. Pl.:** -a
 
 ## i-Stamm
 
