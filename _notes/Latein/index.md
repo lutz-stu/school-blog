@@ -10,10 +10,9 @@ permalink: /Latein
 
 - 🅰️ [[a-Deklination]] – z. B. puella, puellae
 - 🅾️ [[o-Deklination]] – z. B. servus, servi / bellum, belli
-- 🧱 [[kons. Deklination]] – z. B. rex, regis / nomen, nominis
-- 📘 [[e-Deklination]] – z. B. res, rei
-- 🏺 [[i-Deklination]] – z. B. civis, civis / mare, maris
+- 3️⃣ [[kons. Deklination]] – z. B. rex, regis / nomen, nominis
 - 🌊 [[u-Deklination]] – z. B. manus, manus / cornu, cornus
+- 📘 [[e-Deklination]] – z. B. res, rei
 
 ## Konjugationslehre 🔤
 
