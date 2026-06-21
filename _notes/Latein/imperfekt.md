@@ -4,7 +4,11 @@ title: Imperfekt
 
 ## Indikativ Aktiv
 
+- Präsensstamm + -(e)ba- + Personalendung (-m, -s, -t, -mus, -tis, -nt)
+
 ## Indikativ Passiv
+
+- Präsensstamm + -(e)ba- + Passiv-Personalendung (-r, -ris, -tur, -mur, -mini, -ntur)
 
 ## Konjunktiv Aktiv
 
@@ -17,6 +21,8 @@ Person | e-Konj. | a-Konj. | i-Konj. | kons. Konj. | gemisch. Konj.
 **2. Pl.** | habe**-re-tis** | ama**-re-tis** | audi**-re-tis** | reg**-ere-tis** | cap**-ere-tis**
 **3. Pl.** | habe**-re-nt** | ama**-re-nt** | audi**-re-nt** | reg**-ere-nt** | cap**-ere-nt**
 
-- Präsenswortstamm (-re-) + Personalendung (-m, -s, -t, -mus, -tis, -nt)
+- Infinitiv Präsens Aktiv (-re-) + Personalendung (-m, -s, -t, -mus, -tis, -nt)
 
 ## Konjunktiv Passiv
+
+- Infinitiv Präsens Aktiv (-re-) + Passiv-Personalendung (-r, -ris, -tur, -mur, -mini, -ntur)

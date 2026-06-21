@@ -4,7 +4,11 @@ title: Plusquamperfekt
 
 ## Indikativ Aktiv
 
+- Perfektstamm + -era- + Personalendung (-m, -s, -t, -mus, -tis, -nt)
+
 ## Indikativ Passiv
+
+- PPP + esse im Indikativ Imperfekt (eram, eras, erat, eramus, eratis, erant)
 
 ## Konjunktiv Aktiv
 
