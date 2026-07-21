@@ -5,7 +5,7 @@ title: Krieg
 ### Nomen
 
 - **bellum**, belli, n. – Krieg
-- **proelium**, prolii, n. – Schlacht
+- **proelium**, proelii, n. – Schlacht
 - **pugna**, pugnae, f. – Kampf
 - **caedes**, caedis, f. – Mord, Blutbad
 - **impetus**, impetus, m. – Angriff
