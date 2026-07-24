@@ -47,6 +47,17 @@ permalink: /
   font-size: 1.1em;
   margin-bottom: 0.3em;
 }
+
+@media (min-width: 360px) and (max-width: 700px) {
+  .subject-grid {
+    gap: 1em;
+    row-gap: 1em;
+  }
+
+  .subject-card {
+    width: calc((100% - 1em) / 2);
+  }
+}
 </style>
 
 <p style="padding: 3em 1em; background: #f7ece8ff; border-radius: 4px;">
