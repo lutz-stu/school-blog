@@ -23,11 +23,14 @@ permalink: /
   box-shadow: 0 4px 24px #0001;
   width: 160px;
   height: 180px;
+  box-sizing: border-box;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   margin-bottom: 0; /* Kein zusätzlicher Abstand, gap übernimmt das */
+  padding: 0;
+  border-bottom: none;
   transition: transform 0.15s;
   text-align: center;
   text-decoration: none;
@@ -46,6 +49,17 @@ permalink: /
   font-weight: bold;
   font-size: 1.1em;
   margin-bottom: 0.3em;
+}
+
+@media (min-width: 360px) and (max-width: 700px) {
+  .subject-grid {
+    gap: 1em;
+    row-gap: 1em;
+  }
+
+  .subject-card {
+    width: calc((100% - 1em) / 2);
+  }
 }
 </style>
 
