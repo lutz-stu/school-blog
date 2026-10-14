@@ -18,16 +18,10 @@ title: Sallust
 
 #### Kapitel 16, 4-5
 
-Im Vertrauen auf diese Freunde und Genossen/Gefährten, 
-
-zugleich weil seine Schulden in allen Ländern gewaltig waren 
-
-und weil die meisten Soldaten Sullas, (allzu) großzügig mir ihrem Hab umgegangen waren, und sich an Raubzüge und frühere Siege erinnernd einen Bürgerkrieg herbeiwünschten, 
-
-fasste Catilina den Plan, den Staat niederzuwerfen.
-
-In Italien gab es kein Heer, und Cn. Pompeius führte in den entferntesten Ländern Krieg; 
-
-er selbst, der das Konsulat anstrebte, hatte große Hoffnung und der Senat war keineswegs wachsam: 
-
-Die gesamte Lage war sicher und ruhig, aber das war für Catilina geradezu günstig.
+<p class="compact-paragraph">Im Vertrauen auf diese Freunde und Genossen/Gefährten,</p>
+<p class="compact-paragraph">zugleich weil seine Schulden in allen Ländern gewaltig waren</p>
+<p class="compact-paragraph">und weil die meisten Soldaten Sullas, (allzu) großzügig mir ihrem Hab umgegangen waren, und sich an Raubzüge und frühere Siege erinnernd einen Bürgerkrieg herbeiwünschten,</p>
+<p class="compact-paragraph">fasste Catilina den Plan, den Staat niederzuwerfen.</p>
+<p class="compact-paragraph">In Italien gab es kein Heer, und Cn. Pompeius führte in den entferntesten Ländern Krieg;</p>
+<p class="compact-paragraph">er selbst, der das Konsulat anstrebte, hatte große Hoffnung und der Senat war keineswegs wachsam:</p>
+<p class="compact-paragraph">Die gesamte Lage war sicher und ruhig, aber das war für Catilina geradezu günstig.</p>
