@@ -32,6 +32,7 @@ permalink: /Latein
 ## Altertumskunde 🏛️
 - 🐉 [[Fabeln]] – Phaedrus
 - 🌿 [[Caesar]] – Bellum Gallicum
+- 🏺 [[Sallust]] – De coniuratione Catilinae
 
 ## Vokabeln 📚
 - ❓ [[Fragewörter]] – z. B. quis?, quid?, ubi?, quando?

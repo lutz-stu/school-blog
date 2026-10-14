@@ -22,8 +22,8 @@ Kasus | Singular | Plural
 **Nominativ** | corn**-u** | corn**-ua**
 **Genitiv** | corn**-us** | corn**-uum**
 **Dativ** | corn**-ui** | corn**-ibus**
-**Akkusativ** | corn**-um** | corn**-ua**
+**Akkusativ** | corn**-u** | corn**-ua**
 **Ablativ** | corn**-u** | corn**-ibus**
 
-- **Nom. Sgl.**: -u
+- **Nom. & Akk. Sgl.**: -u
 - **Nom. & Akk. Pl.**: -ua
