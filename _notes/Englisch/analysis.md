@@ -2,6 +2,13 @@
 title: Analysis
 ---
 
+## Aufbau
+
+1. working thesis _("In the following …")
+2. main thesis
+3. arguments to support the main thesis
+4. conclusion
+
 ## Analyse der Sprache (use of language)
 
 ### Wortwahl (choice of words)
