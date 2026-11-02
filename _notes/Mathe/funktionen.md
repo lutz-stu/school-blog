@@ -17,8 +17,8 @@ Die Definitionsmenge $\mathbb{D}$ ist die Menge aller Werte, die man für $x$ ei
 ### Beispiel
 
 $f(x)=4x^2-5$ | $\mathbb{D}=\mathbb{R}=(-\infty;\infty)$
-$f(x)=\sqrt{x+3}$ | $\mathbb{D}=\mathbb{R}_0^+=[-3;\infty)$, weil man keine Wurzel aus negativen Zahlen ziehen kann
-$f(x)=x^{-n}=\frac{1}{x^n}$ | $$\mathbb{D}=\mathbb{R}\backslash\{0\}$$, weil man nicht durch 0 teilen kann
+$f(x)=\sqrt{x}$ | $\mathbb{D}=\mathbb{R}_0^+=[0;\infty)$, weil man keine Wurzel aus negativen Zahlen ziehen kann
+$f(x)=x^{-4}=\frac{1}{x^4}$ | $$\mathbb{D}=\mathbb{R}\backslash\{0\}$$, weil man nicht durch 0 teilen kann
 
 ## Wertemenge
 
@@ -49,6 +49,10 @@ $f(x)=x^2$ | Funktionsterm: $x^2$
 
 Beschreibt allgemein wie jedem $x$-Wert ein $y$-Wert zugeordnet wird (kann als [Gleichung](/Mathe/funktionen#funktionsgleichung){: .internal-link}, Text, Wertetabelle, etc. erfolgen).
 
+### Beispiel
+
+$x \mapsto 3x^2+5$
+
 ## Funktionsgleichung
 
-Eine konkrete mathematische Schreibweise einer Funktionsvorschrift.
+Eine Funktionsgleichung beschreibt die Zuordnung zwischen $x$ und $y$ mithilfe einer mathematischen Gleichung.
