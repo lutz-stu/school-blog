@@ -22,7 +22,7 @@ permalink: /Mathe
 - 📏 [[Zentrische Steckung und Ähnlichkeit]] – Streckfaktor, Strahlensatz, Ähnlichkeit
 - 🔺 [[Geometrie und Trigonometrie im Dreieck]] – Rechtwinklige Dreiecke, Satz d. Pythagoras, Kosinussatz, AK/GK/HY
 
-## Funktionen 📈
+## [[Funktionen]] 📈
 - ➖ [[Lineare Funktionen]] – $ f(x) = mx + b $
 - ⬜ [[Quadratische Funktionen]] – $ f(x) = a(x - d)^2 + e $ oder $ f(x) = ax^2 + bx + c $
 - 📈 [[Exponentialfunktionen]] – $ f(x) = \pm c \cdot a^x+b + d $
