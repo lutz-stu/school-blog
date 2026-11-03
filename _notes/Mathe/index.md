@@ -27,6 +27,7 @@ permalink: /Mathe
 - ⬜ [[Quadratische Funktionen]] – $ f(x) = a(x - d)^2 + e $ oder $ f(x) = ax^2 + bx + c $
 - 📈 [[Exponentialfunktionen]] – $ f(x) = \pm c \cdot a^x+b + d $
 - 🌊 [[Sinusfunktion]] – $ f(x) = a \cdot \sin(b \cdot (x - c)) + d $
+- #️⃣ [[Potenzfunktionen]] – (mit natürlichen oder negativen Exponenten) $ f(x) = a \cdot x^n + b $
 
 ## Stochastik 🎲
 - 🎲 [[Statistische Daten und Darstellungen]] – Spannweite, Mittelwert, Boxplot, etc.
