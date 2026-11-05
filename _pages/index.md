@@ -100,9 +100,13 @@ permalink: /
     <img src="https://cdn-icons-png.flaticon.com/512/124/124784.png" alt="Geschichte Icon"/>
     <div class="subject-title">Geschichte</div>
   </a> -->
-  <a class="subject-card internal-link" href="{{ site.baseurl }}/Biologie">
+  <!-- <a class="subject-card internal-link" href="{{ site.baseurl }}/Biologie">
     <img src="https://cdn-icons-png.flaticon.com/512/13462/13462484.png" alt="Biologie Icon"/>
     <div class="subject-title">Biologie</div>
+  </a> -->
+  <a class="subject-card internal-link" href="{{ site.baseurl }}/Chemie">
+    <img src="https://cdn-icons-png.flaticon.com/512/1156/1156950.png" alt="Chemie Icon"/>
+    <div class="subject-title">Chemie</div>
   </a>
   <!-- <a class="subject-card internal-link" href="{{ site.baseurl }}/Musik">
     <img src="https://cdn-icons-png.flaticon.com/512/3083/3083417.png" alt="Musik Icon"/>
