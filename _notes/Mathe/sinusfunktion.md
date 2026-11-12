@@ -1,6 +1,8 @@
 ---
-title: Sinusfunktion
+title: Trigonometrische Funktionen
 ---
+
+## Sinusfunktion
 
 $$ f(x) = a \cdot \sin(b \cdot (x - c)) + d $$
 
